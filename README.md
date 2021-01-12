@@ -1,16 +1,18 @@
-### Hi there 👋
+# Bienvenido a mi perfil. Soy Leonel Peralta.
 
-<!--
-**leonelmperalta/leonelmperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del 3° año de la Licenciatura en Informatica en la UNaHur.
+Actualmente estoy aprendiendo tecnologias para el desarrollo web. Tales como: 
 
-Here are some ideas to get you started:
+- HTML, CSS y JS.
+- Framework Django junto con Python.
+- Framework React junto con JS.
+- Node JS + sequelize.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entre otras tecnologias en las cuales tengo conocimiento: 
+
+- Java. 
+- MySQL y MariaDB.
+- Unity con Vuforia para el desarrollo de aplicaciones de Realidad Aumentada. 
+- Manejo de sistemas operativos Linux y Windows. 
+
+Podes contactarte conmigo mediante mi e-mail: [Leonel Peralta](leonelm.peralta@outlook.es).
